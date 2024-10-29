@@ -11,13 +11,13 @@ var config = {
         "三年以来，我见过你",
         "奇怪的样子",
         "可爱的样子",
-        "生气的样子",
+        "干饭的样子",
         "都是我喜欢的样子",
         "手环好用吗",
         "今天要吃好好的",
         "喂饱饱的",
         "然后才有力气给老师当牛马",
-        "和想我！",
+        "HAHAHAHA！",
         "生日快乐~~",
     ],
     /**
@@ -45,7 +45,7 @@ var config = {
         "喂饱饱的": "./imgs/weibao.jpeg",
         "然后才有力气给老师当牛马": "./imgs/niuma.jpg",
         "HAHAHAHA！": "./imgs/zhehennanping.jpg",
-        "生日快乐~~": "./imgs/shengrikuaile.png"
+        "生日快乐~~": "./imgs/shengrikuaile.jpg"
     },
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
