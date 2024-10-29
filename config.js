@@ -41,11 +41,11 @@ var config = {
         "干饭的样子": "./imgs/ganfan.jpg",
         "都是我喜欢的样子": "./imgs/songxinxin.jpg",
         "手环好用吗": "./imgs/chuo.gif",
-        "今天要吃好好的": "./imgs/chihaodian.jpeg",
+        "今天要吃好好的": "./imgs/chihaodian.jpg",
         "喂饱饱的": "./imgs/weibao.jpeg",
         "然后才有力气给老师当牛马": "./imgs/niuma.jpg",
         "HAHAHAHA！": "./imgs/zhehennanping.jpg",
-        "生日快乐~~": "./imgs/shengrikuaile.jpg"
+        "生日快乐~~": "./imgs/shengrikuaile.png"
     },
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
